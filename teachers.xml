@@ -1,0 +1,1587 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="McGonagall">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Transfiguration"></Subject><Students name="4_G"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Transfiguration"></Subject><Students name="3_S"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Transfiguration"></Subject><Students name="2_G"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Transfiguration"></Subject><Students name="4_S"></Students><Students name="4_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Transfiguration"></Subject><Students name="2_S"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Transfiguration"></Subject><Students name="7"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     <Subject name="Transfiguration"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Transfiguration"></Subject><Students name="3_G"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Transfiguration"></Subject><Students name="3_G"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Transfiguration"></Subject><Students name="1_G"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Transfiguration"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Transfiguration"></Subject><Students name="5_R"></Students><Students name="5_S"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Transfiguration"></Subject><Students name="5_R"></Students><Students name="5_S"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="Transfiguration"></Subject><Students name="5_G"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Transfiguration"></Subject><Students name="5_G"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Transfiguration"></Subject><Students name="4_G"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Transfiguration"></Subject><Students name="3_S"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Transfiguration"></Subject><Students name="1_S"></Students><Students name="1_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Transfiguration"></Subject><Students name="2_G"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Transfiguration"></Subject><Students name="4_S"></Students><Students name="4_R"></Students>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     <Subject name="Transfiguration"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Transfiguration"></Subject><Students name="1_G"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Transfiguration"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Transfiguration"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Transfiguration"></Subject><Students name="2_S"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Transfiguration"></Subject><Students name="2_S"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Transfiguration"></Subject><Students name="5_R"></Students><Students name="5_S"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="Transfiguration"></Subject><Students name="4_G"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Transfiguration"></Subject><Students name="3_S"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Transfiguration"></Subject><Students name="2_G"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Transfiguration"></Subject><Students name="1_S"></Students><Students name="1_R"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Transfiguration"></Subject><Students name="5_G"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Transfiguration"></Subject><Students name="3_G"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Transfiguration"></Subject><Students name="4_S"></Students><Students name="4_R"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Snape">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Potions"></Subject><Students name="5_R"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Potions"></Subject><Students name="5_R"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Potions"></Subject><Students name="1_R"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Potions"></Subject><Students name="1_R"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Potions"></Subject><Students name="3_G"></Students><Students name="3_S"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Potions"></Subject><Students name="3_G"></Students><Students name="3_S"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Potions"></Subject><Students name="5_G"></Students><Students name="5_S"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     <Subject name="Potions"></Subject><Students name="4_R"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Potions"></Subject><Students name="2_R"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Potions"></Subject><Students name="2_R"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Potions"></Subject><Students name="4_G"></Students><Students name="4_S"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Potions"></Subject><Students name="3_H"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Potions"></Subject><Students name="3_H"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Potions"></Subject><Students name="6"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="Potions"></Subject><Students name="3_G"></Students><Students name="3_S"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Potions"></Subject><Students name="1_G"></Students><Students name="1_S"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Potions"></Subject><Students name="1_G"></Students><Students name="1_S"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Potions"></Subject><Students name="2_R"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Potions"></Subject><Students name="2_G"></Students><Students name="2_S"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Potions"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Potions"></Subject><Students name="7"></Students>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     <Subject name="Potions"></Subject><Students name="4_R"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Potions"></Subject><Students name="4_R"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Potions"></Subject><Students name="4_G"></Students><Students name="4_S"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Potions"></Subject><Students name="4_G"></Students><Students name="4_S"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Potions"></Subject><Students name="3_H"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Potions"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Potions"></Subject><Students name="6"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="Potions"></Subject><Students name="5_G"></Students><Students name="5_S"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Potions"></Subject><Students name="5_G"></Students><Students name="5_S"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Potions"></Subject><Students name="5_R"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Potions"></Subject><Students name="2_G"></Students><Students name="2_S"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Potions"></Subject><Students name="2_G"></Students><Students name="2_S"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Potions"></Subject><Students name="7"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Flitwick">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Charms"></Subject><Students name="3_G"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Charms"></Subject><Students name="4_S"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Charms"></Subject><Students name="2_G"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Charms"></Subject><Students name="3_S"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Charms"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Charms"></Subject><Students name="4_G"></Students><Students name="4_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Charms"></Subject><Students name="6"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     <Subject name="Charms"></Subject><Students name="5_G"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Charms"></Subject><Students name="5_G"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Charms"></Subject><Students name="1_G"></Students><Students name="1_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Charms"></Subject><Students name="2_S"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Charms"></Subject><Students name="1_S"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Charms"></Subject><Students name="4_G"></Students><Students name="4_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="Charms"></Subject><Students name="4_S"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Charms"></Subject><Students name="2_G"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Charms"></Subject><Students name="5_S"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Charms"></Subject><Students name="5_S"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Charms"></Subject><Students name="3_S"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Charms"></Subject><Students name="3_G"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Charms"></Subject><Students name="6"></Students>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Charms"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Charms"></Subject><Students name="1_S"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Charms"></Subject><Students name="2_S"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Charms"></Subject><Students name="4_G"></Students><Students name="4_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Charms"></Subject><Students name="5_G"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="Charms"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Charms"></Subject><Students name="1_G"></Students><Students name="1_R"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Charms"></Subject><Students name="3_G"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Charms"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Charms"></Subject><Students name="3_S"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Charms"></Subject><Students name="4_S"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Charms"></Subject><Students name="5_S"></Students><Students name="5_H"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="DADA Teacher">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="DADA"></Subject><Students name="5_G"></Students><Students name="5_S"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="DADA"></Subject><Students name="2_R"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="DADA"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="DADA"></Subject><Students name="1_G"></Students><Students name="1_S"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="DADA"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="DADA"></Subject><Students name="5_R"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="DADA"></Subject><Students name="5_R"></Students><Students name="5_H"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     <Subject name="DADA"></Subject><Students name="3_R"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="DADA"></Subject><Students name="4_R"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="DADA"></Subject><Students name="4_R"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="DADA"></Subject><Students name="3_G"></Students><Students name="3_S"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="DADA"></Subject><Students name="2_G"></Students><Students name="2_S"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="DADA"></Subject><Students name="2_G"></Students><Students name="2_S"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="DADA"></Subject><Students name="4_G"></Students><Students name="4_S"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="DADA"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="DADA"></Subject><Students name="1_R"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="DADA"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="DADA"></Subject><Students name="2_R"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="DADA"></Subject><Students name="5_G"></Students><Students name="5_S"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="DADA"></Subject><Students name="5_G"></Students><Students name="5_S"></Students>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="DADA"></Subject><Students name="2_G"></Students><Students name="2_S"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="DADA"></Subject><Students name="3_R"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="DADA"></Subject><Students name="3_R"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="DADA"></Subject><Students name="3_G"></Students><Students name="3_S"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="DADA"></Subject><Students name="3_G"></Students><Students name="3_S"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="DADA"></Subject><Students name="7"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="DADA"></Subject><Students name="5_R"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="DADA"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="DADA"></Subject><Students name="4_G"></Students><Students name="4_S"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="DADA"></Subject><Students name="4_G"></Students><Students name="4_S"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="DADA"></Subject><Students name="4_R"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="DADA"></Subject><Students name="2_R"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Sprout">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Herbology"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Herbology"></Subject><Students name="3_G"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Herbology"></Subject><Students name="4_G"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Herbology"></Subject><Students name="1_G"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Herbology"></Subject><Students name="2_G"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Herbology"></Subject><Students name="4_S"></Students><Students name="4_R"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Herbology"></Subject><Students name="3_S"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Herbology"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Herbology"></Subject><Students name="1_S"></Students><Students name="1_R"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Herbology"></Subject><Students name="5_S"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Herbology"></Subject><Students name="5_G"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Herbology"></Subject><Students name="5_G"></Students><Students name="5_H"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="Herbology"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Herbology"></Subject><Students name="3_G"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Herbology"></Subject><Students name="2_S"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Herbology"></Subject><Students name="1_G"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Herbology"></Subject><Students name="4_S"></Students><Students name="4_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Herbology"></Subject><Students name="4_G"></Students><Students name="4_H"></Students>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     <Subject name="Herbology"></Subject><Students name="3_S"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Herbology"></Subject><Students name="5_S"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Herbology"></Subject><Students name="5_S"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Herbology"></Subject><Students name="1_S"></Students><Students name="1_R"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Herbology"></Subject><Students name="2_G"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Herbology"></Subject><Students name="2_G"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Herbology"></Subject><Students name="5_G"></Students><Students name="5_H"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="Herbology"></Subject><Students name="4_S"></Students><Students name="4_R"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Herbology"></Subject><Students name="2_S"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Herbology"></Subject><Students name="2_S"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Herbology"></Subject><Students name="3_G"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Herbology"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Herbology"></Subject><Students name="3_S"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Herbology"></Subject><Students name="4_G"></Students><Students name="4_H"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Binns">
+   <Day name="Monday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="History of Magic"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="History of Magic"></Subject><Students name="5_G"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="History of Magic"></Subject><Students name="5_G"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="History of Magic"></Subject><Students name="2_S"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="History of Magic"></Subject><Students name="4_S"></Students><Students name="4_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     <Subject name="History of Magic"></Subject><Students name="5_S"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="History of Magic"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="History of Magic"></Subject><Students name="1_S"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="History of Magic"></Subject><Students name="2_G"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="History of Magic"></Subject><Students name="1_G"></Students><Students name="1_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="History of Magic"></Subject><Students name="4_G"></Students><Students name="4_R"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="History of Magic"></Subject><Students name="2_S"></Students><Students name="2_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="History of Magic"></Subject><Students name="3_S"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="History of Magic"></Subject><Students name="5_G"></Students><Students name="5_R"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="History of Magic"></Subject><Students name="3_G"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="History of Magic"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="History of Magic"></Subject><Students name="1_G"></Students><Students name="1_R"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="History of Magic"></Subject><Students name="2_G"></Students><Students name="2_R"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="History of Magic"></Subject><Students name="5_S"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="History of Magic"></Subject><Students name="5_S"></Students><Students name="5_H"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="History of Magic"></Subject><Students name="4_S"></Students><Students name="4_H"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="History of Magic"></Subject><Students name="3_S"></Students><Students name="3_H"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="History of Magic"></Subject><Students name="1_S"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="History of Magic"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="History of Magic"></Subject><Students name="3_G"></Students><Students name="3_R"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="History of Magic"></Subject><Students name="4_G"></Students><Students name="4_R"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Hooch">
+   <Day name="Monday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Flying"></Subject><Students name="1_G"></Students><Students name="1_S"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Flying"></Subject><Students name="1_R"></Students><Students name="1_H"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Vector">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_S_Ar"></Students><Students name="4_R_Ar"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_S_Ar"></Students><Students name="3_R_Ar"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_G_Ar"></Students><Students name="3_H_Ar"></Students>
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_S_Ar"></Students><Students name="5_R_Ar"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Arithmancy"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_G_Ar"></Students><Students name="4_H_Ar"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     <Subject name="Arithmancy"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_S_Ar"></Students><Students name="3_R_Ar"></Students>
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_G_Ar"></Students><Students name="5_H_Ar"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_S_Ar"></Students><Students name="5_R_Ar"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_S_Ar"></Students><Students name="4_R_Ar"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_S_Ar"></Students><Students name="4_R_Ar"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Arithmancy"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_G_Ar"></Students><Students name="4_H_Ar"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_G_Ar"></Students><Students name="4_H_Ar"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_G_Ar"></Students><Students name="3_H_Ar"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_G_Ar"></Students><Students name="5_H_Ar"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_G_Ar"></Students><Students name="5_H_Ar"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Arithmancy"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_G_Ar"></Students><Students name="3_H_Ar"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Arithmancy"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_S_Ar"></Students><Students name="3_R_Ar"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Arithmancy"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_S_Ar"></Students><Students name="5_R_Ar"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Arithmancy"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Burbage">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_S_Mu"></Students><Students name="4_R_Mu"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_S_Mu"></Students><Students name="3_R_Mu"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_G_Mu"></Students><Students name="3_H_Mu"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Muggle Studies"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_G_Mu"></Students><Students name="4_H_Mu"></Students>
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Muggle Studies"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_G_Mu"></Students><Students name="5_H_Mu"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Muggle Studies"></Subject><Students name="7"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_S_Mu"></Students><Students name="5_R_Mu"></Students>
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_S_Mu"></Students><Students name="4_R_Mu"></Students>
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="4_E1"></Activity_Tag><Students name="4_G_Mu"></Students><Students name="4_H_Mu"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     <Subject name="Muggle Studies"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_G_Mu"></Students><Students name="3_H_Mu"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Muggle Studies"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_G_Mu"></Students><Students name="5_H_Mu"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="Muggle Studies"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="3_E1"></Activity_Tag><Students name="3_S_Mu"></Students><Students name="3_R_Mu"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Muggle Studies"></Subject><Activity_Tag name="5_E1"></Activity_Tag><Students name="5_S_Mu"></Students><Students name="5_R_Mu"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="CoMC teacher">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Care of Magical Creatures"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="5_E3"></Activity_Tag><Students name="5_G_Ca"></Students><Students name="5_S_Ca"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="4_E3"></Activity_Tag><Students name="4_G_Ca"></Students><Students name="4_S_Ca"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Care of Magical Creatures"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="3_E3"></Activity_Tag><Students name="3_R_Ca"></Students><Students name="3_H_Ca"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="3_E3"></Activity_Tag><Students name="3_R_Ca"></Students><Students name="3_H_Ca"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="4_E3"></Activity_Tag><Students name="4_G_Ca"></Students><Students name="4_S_Ca"></Students>
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="3_E3"></Activity_Tag><Students name="3_G_Ca"></Students><Students name="3_S_Ca"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="3_E3"></Activity_Tag><Students name="3_G_Ca"></Students><Students name="3_S_Ca"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="4_E3"></Activity_Tag><Students name="4_R_Ca"></Students><Students name="4_H_Ca"></Students>
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="3_E3"></Activity_Tag><Students name="3_R_Ca"></Students><Students name="3_H_Ca"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Care of Magical Creatures"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Care of Magical Creatures"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="4_E3"></Activity_Tag><Students name="4_R_Ca"></Students><Students name="4_H_Ca"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="5_E3"></Activity_Tag><Students name="5_G_Ca"></Students><Students name="5_S_Ca"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="5_E3"></Activity_Tag><Students name="5_R_Ca"></Students><Students name="5_H_Ca"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="5_E3"></Activity_Tag><Students name="5_R_Ca"></Students><Students name="5_H_Ca"></Students>
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="4_E3"></Activity_Tag><Students name="4_G_Ca"></Students><Students name="4_S_Ca"></Students>
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="3_E3"></Activity_Tag><Students name="3_G_Ca"></Students><Students name="3_S_Ca"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="3_E3"></Activity_Tag><Students name="3_G_Ca"></Students><Students name="3_S_Ca"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="3_E3"></Activity_Tag><Students name="3_R_Ca"></Students><Students name="3_H_Ca"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="5_E3"></Activity_Tag><Students name="5_R_Ca"></Students><Students name="5_H_Ca"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="5_E3"></Activity_Tag><Students name="5_G_Ca"></Students><Students name="5_S_Ca"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Care of Magical Creatures"></Subject><Activity_Tag name="4_E3"></Activity_Tag><Students name="4_R_Ca"></Students><Students name="4_H_Ca"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Care of Magical Creatures"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Care of Magical Creatures"></Subject><Students name="6"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Div Teacher">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Divination"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_S_Di"></Students><Students name="3_H_Di"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Divination"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_G_Di"></Students><Students name="4_R_Di"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Divination"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_S_Di"></Students><Students name="5_H_Di"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Divination"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_G_Di"></Students><Students name="3_R_Di"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Divination"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Divination"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_G_Di"></Students><Students name="5_R_Di"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Divination"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_S_Di"></Students><Students name="4_H_Di"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Divination"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_S_Di"></Students><Students name="4_H_Di"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Divination"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Divination"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_G_Di"></Students><Students name="3_R_Di"></Students>
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Divination"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_S_Di"></Students><Students name="3_H_Di"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Divination"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Divination"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_S_Di"></Students><Students name="4_H_Di"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Divination"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_G_Di"></Students><Students name="4_R_Di"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Divination"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_G_Di"></Students><Students name="4_R_Di"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="Divination"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_G_Di"></Students><Students name="3_R_Di"></Students>
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Divination"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_S_Di"></Students><Students name="3_H_Di"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Divination"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Divination"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_S_Di"></Students><Students name="5_H_Di"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Divination"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_G_Di"></Students><Students name="5_R_Di"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Batsheda Babbling">
+   <Day name="Monday">
+    <Hour name="M1">
+     <Subject name="Runes"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_S_Ru"></Students><Students name="3_H_Ru"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Runes"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_G_Ru"></Students><Students name="4_R_Ru"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Runes"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Runes"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_G_Ru"></Students><Students name="3_R_Ru"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Runes"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Tuesday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Runes"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_S_Ru"></Students><Students name="5_H_Ru"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Runes"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_S_Ru"></Students><Students name="5_H_Ru"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Runes"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_G_Ru"></Students><Students name="5_R_Ru"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Runes"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_S_Ru"></Students><Students name="4_H_Ru"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Runes"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_S_Ru"></Students><Students name="4_H_Ru"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Wednesday">
+    <Hour name="M1">
+     
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Runes"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_G_Ru"></Students><Students name="3_R_Ru"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Runes"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Runes"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Runes"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_S_Ru"></Students><Students name="3_H_Ru"></Students>
+    </Hour>
+    <Hour name="A3">
+     
+    </Hour>
+   </Day>
+   <Day name="Thursday">
+    <Hour name="M1">
+     <Subject name="Runes"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_G_Ru"></Students><Students name="5_R_Ru"></Students>
+    </Hour>
+    <Hour name="M2">
+     
+    </Hour>
+    <Hour name="M3">
+     
+    </Hour>
+    <Hour name="M4">
+     
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     <Subject name="Runes"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_S_Ru"></Students><Students name="4_H_Ru"></Students>
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Runes"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_G_Ru"></Students><Students name="4_R_Ru"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Runes"></Subject><Activity_Tag name="4_E2"></Activity_Tag><Students name="4_G_Ru"></Students><Students name="4_R_Ru"></Students>
+    </Hour>
+   </Day>
+   <Day name="Friday">
+    <Hour name="M1">
+     <Subject name="Runes"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_G_Ru"></Students><Students name="3_R_Ru"></Students>
+    </Hour>
+    <Hour name="M2">
+     <Subject name="Runes"></Subject><Students name="7"></Students>
+    </Hour>
+    <Hour name="M3">
+     <Subject name="Runes"></Subject><Activity_Tag name="3_E2"></Activity_Tag><Students name="3_S_Ru"></Students><Students name="3_H_Ru"></Students>
+    </Hour>
+    <Hour name="M4">
+     <Subject name="Runes"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_S_Ru"></Students><Students name="5_H_Ru"></Students>
+    </Hour>
+    <Hour name="Lunch">
+     
+    </Hour>
+    <Hour name="A1">
+     
+    </Hour>
+    <Hour name="A2">
+     <Subject name="Runes"></Subject><Students name="6"></Students>
+    </Hour>
+    <Hour name="A3">
+     <Subject name="Runes"></Subject><Activity_Tag name="5_E2"></Activity_Tag><Students name="5_G_Ru"></Students><Students name="5_R_Ru"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
